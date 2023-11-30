@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=Guayaquil&appid=c385307a64ef6795d69a45636db5c818&lang=es&units=metric

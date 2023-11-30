@@ -1,0 +1,44 @@
+{
+  "base": "stations",
+  "clouds": {
+    "all": 75
+  },
+  "cod": 200,
+  "coord": {
+    "lat": -2.1667,
+    "lon": -79.9
+  },
+  "dt": 1699489621,
+  "id": 3657509,
+  "main": {
+    "feels_like": 29.16,
+    "humidity": 74,
+    "pressure": 1007,
+    "temp": 26.98,
+    "temp_max": 26.98,
+    "temp_min": 26.98
+  },
+  "name": "Guayaquil",
+  "sys": {
+    "country": "EC",
+    "id": 8534,
+    "sunrise": 1699441039,
+    "sunset": 1699484964,
+    "type": 1
+  },
+  "timezone": -18000,
+  "visibility": 10000,
+  "weather": [
+    {
+      "description": "broken clouds",
+      "icon": "04n",
+      "id": 803,
+      "main": "Clouds"
+    }
+  ],
+  "wind": {
+    "deg": 200,
+    "speed": 6.69
+  }
+  
+}

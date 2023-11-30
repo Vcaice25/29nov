@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Curriculum</title>
+        <style>
+             #Foto{
+                margin:  5px;         
+                border: solid 4px     #cccccc
+            }
+        
+            
+            #Principal{
+                border: solid 1px;
+                padding: 10px;
+                width: 80%;
+                margin: 0 auto;
+                background: #bce7e8 ;
+            }
+            
+            legend{
+                border: solid 1px;      
+                padding: 5px;
+                font-weight: bold; 
+                border-radius: 20px;
+                background: #6fb1c5
+            }
+            
+            body{
+                background: #19191a;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div id="Principal">
+            <img src="Imagen.jpg" align="left" width="96" id="foto"/>
+            <h2>VIVIANA DE LOURDES CAICE ZUÑIGA</h2>
+            <p> Guasmo Norte Coop. Union Civica Mz- 188 Solar 2 4</p>
+            <P> vcaicezuniga1978@gmail.com</P>
+            <p>Telefono: 0970512906/p>
+            <br/>
+            <br/>
+            <fieldset>
+                <legend>Datos Generales</legend>
+                <ul>
+                    <li>Fecha de Nacimiento: 25-03-1978</li>
+                    <li>Cedula:0915459077</li>
+                    <li>Nacionalidad:Ecuatoriana</li>
+                    <li>Estado Civil:Soltero</li>
+                </ul>
+            </fieldset>
+            <br/>
+            <fieldset>
+                <legend>Formacion Academica</legend>
+                <ul>
+                    <li>Estudios Primarios: Escuela Fiscal MIxta No. 21 Republica de Chile</li>
+                    <li>Estudios Secundarios: International Speedwriting Institute</li>
+                    <li>Estudios Universitario: Universidad Laice Vicente Rocafuerte 3er curso (Abandonado)</li>
+                    <li>Estudios Universitario: Universidad de Guayaquil (Actual)</li>
+                </ul>
+            </fieldset>
+            <br/>
+            <fieldset>
+                <legend>Experiencias Laboral</legend>
+                <ul>
+                    <li>Secretaria Recepcionista en Maru Spa</li>
+                    <li>Secretaria Administrativa Cooperativa de Transporte de Pasajeros en Taxis 30 de Enero/li>
+                    <li>Secretaria Administrativa Cooperativa de Transporte en Guayaquil Independiente/li>
+                    <li>Supervisor en Dulcafe S.A./li>
+                </ul>
+            </fieldset>
+            <br/>
+            <fieldset>
+                <legend>Habilidades y Conocimiento</legend>
+                <ul>
+                    <li>Habilidad para liderar</li>
+                    <li>Habilidad de comunicacion</li>
+                    <li>Habilidad de gestion de tiempo</li>
+                    <li>Conocimiento en sistema operativo de software</li>
+                </ul>
+            </fieldset>
+            <br/>
+            <fieldset>
+                <legend>Idiomas</legend>
+                <ul>
+                    <li>Español</li>
+                    <li>Ingles</li>
+                </ul>
+            </fieldset>
+            <br/>
+            <fieldset>
+                <legend>Referencia</legend>
+                <ul>
+                    <li>Mariuxi Guitierrez Herrera MAestra Artesana. Telf. 0992873024</li>
+                    <li>Marcos VArgas Holguin . Telf. 0989747299</li>
+                </ul>
+            </fieldset>
+        </div>
+    </body>
+</html>
+
